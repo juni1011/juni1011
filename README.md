@@ -1,4 +1,4 @@
-## Hi there 👋
+## PARK JUNI 👋
 
 <!--
 **juni1011/juni1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={junipark1011})](https://solved.ac/{junipark1011})
